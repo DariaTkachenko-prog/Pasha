@@ -80,7 +80,7 @@ h1 {
 }
 
 #gift {
-  width: 400px;
+  width: 600px;
   cursor: pointer;
   transition: transform 0.5s ease;
   margin-top: 0px;
@@ -230,7 +230,7 @@ background-color: rgba(60, 52, 174, 1);
   }
 
   #gift {
-    width: 180px;
+    width: 400px;
   }
 
   .click-text {
@@ -275,7 +275,7 @@ background-color: rgba(60, 52, 174, 1);
   }
 
   .congrats-photo {
-    margin-top: 25px; /* Опустили ещё ниже */
+    margin-top: 15px; /* Опустили ещё ниже */
   }
 
   .card {
@@ -289,7 +289,7 @@ background-color: rgba(60, 52, 174, 1);
   }
 
   #gift {
-    width: 250px;
+    width: 400px;
   }
 }
 
